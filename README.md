@@ -1,2 +1,3 @@
-# simplepython
-Simple codes on python
+Meus primeiros projetos em python
+Codigos simples utilizando python
+
